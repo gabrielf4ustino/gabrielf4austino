@@ -9,7 +9,7 @@ Estudante de Engenharia de Computação pela UFMS, estou focado em desenvolver m
 - **notflix**: Um clone do Netflix, também criado com React.
 
 ## 🌱 Estou Aprendendo
-Atualmente, estou me aprofundando em Java, React e explorando o desenvolvimento de aplicativos Android.
+Atualmente, estou me aprofundando em Java, Spring, Quarkus, JS, NestJS, React, Dart, Flutter e explorando o desenvolvimento de aplicativos Android.
 
 ## 📫 Como me encontrar
 - [LinkedIn](https://www.linkedin.com/in/gabrielf4ustino/)
